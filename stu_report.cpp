@@ -81,8 +81,8 @@ int main()
         system("cls");
         cout<<"\n\n\n\tMENU";
         cout<<"\n\n\t1.Create student record";
-        cout<<"\n\n\t2. Search student record";
-        cout<<"\n\n\t3. Display all students records ";
+        cout<<"\n\n\t2.Search student record";
+        cout<<"\n\n\t3.Display all students records ";
         cout<<"\n\n\t4.Delete student record";
         cout<<"\n\n\t5.Modify student record";
         cout<<"\n\n\t6.Exit";
